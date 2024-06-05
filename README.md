@@ -106,4 +106,4 @@ docker-compose up
 
 ## Contributors
 [![ashirogirz](https://avatars.githubusercontent.com/u/15813991?s=64&v=4&fit=cover&h=300&w=300&mask=circle)](https://github.com/ashirogirz)
-[![june-arch](https://avatars.githubusercontent.com/u/54971444?v=4?s=64&v=4&fit=cover&h=300&w=300&mask=circle)](https://github.com/june-arch)
+[![june-arch](https://avatars.githubusercontent.com/u/54971444?s=64?v=4&fit=cover&h=300&w=300&mask=circle)](https://github.com/june-arch)

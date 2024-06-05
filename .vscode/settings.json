@@ -1,0 +1,11 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "phpfmt.enable_auto_align": true,
+  "phpfmt.visibility_order": true,
+  "php-intellisense.trace.server": "verbose",
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt",
+    "editor.tabSize": 4
+  }
+}

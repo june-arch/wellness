@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "xdebug.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "xdebug.php-pack",
+    "mehedidracula.php-namespace-resolver",
+    "kokororin.vscode-phpfmt",
+    "zobo.php-intellisense"
+  ]
+}
